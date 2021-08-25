@@ -1,7 +1,7 @@
 function welcomeMSG() {
   alert("🍀Welcome to the Rock, Paper, Scissors, Lizard, Spock game!🍀");
   alert(
-    "Here are the rules:\n  1) You will choose either: r for Rock, p for Paper, s for Scissors.\n  2) The computer will also choose an option.\n  3) Rock beats scissors, paper beats rock, and scissors beats paper."
+    "Here are the rules:\n  1) You will choose either: 1 for Rock 👊, 2 for Paper 📄, 3 for Scissors ✂️ 4 for Lizard 🦎 or 5 for Spock 🖖.\n  2) The computer will also choose an option."
   );
 }
 
