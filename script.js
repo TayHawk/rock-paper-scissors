@@ -124,9 +124,7 @@ do {
   ) {
     let answer = playerChoice(name);
     answer = convertAnswer(answer);
-    console.log(answer);
     let computerResponse = computerChoice();
-    playerWins(answer, computerResponse);
     displayWinner(answer, computerResponse, name);
     calcScore(answer, computerResponse);
     displayScore(name);
